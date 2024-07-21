@@ -70,3 +70,8 @@ for(i=0;i<row;i++)
     }
 }
 console.log(k)
+
+
+var row= parseInt(prompt("Row: "))
+var col = parseInt(prompt("col: "))
+console.log(k[row][col])
